@@ -14,6 +14,14 @@
     border: 1px solid blue;
     margin: auto;
 }
+#input{
+    width: 264px;
+    height: 70px;
+    text-align: right;
+    font-size: 20px;
+    border: 1px solid red;
+   
+}
 
 
 @media (min-width:400px){
@@ -27,5 +35,10 @@
         height: 600px;
         border: 1px solid red;
         margin: auto;
+    }
+    #input{
+        width: 340px;
+        font-size: 24px;
+        /* margin: auto; */
     }
 }
