@@ -6,12 +6,12 @@
 .container{
     width: 375px;
     height: 600px;
-    border:  2px solid greenyellow;
+    /* border:  2px solid greenyellow; */
 }
 .main{
     width: 300px;
     height: 600px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     margin: auto;
 }
 #input{
@@ -19,14 +19,14 @@
     height: 70px;
     text-align: right;
     font-size: 20px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     margin-left: 33px;
    
 }
 .buttons{
     width: 230px;
     height: 530px;
-    border: 1px solid purple;
+    /* border: 1px solid purple; */
     margin-left: 33px;
     background-color: black;
     border-radius: 0px 0px 20px 20px;
@@ -46,22 +46,22 @@ button{
 @media (min-width:400px){
     .container{
         width: 1350px;
-        height: 650px;
-        border: 2px solid blueviolet;
+        height: 200px;
+        /* border: 2px solid blueviolet; */
     }
     .main{
         width: 1200px;
-        height: 600px;
-        border: 1px solid red;
+        height: 200px;
+        /* border: 1px solid red; */
         margin: auto;
     }
     #input{
-        width: 340px;
+        width: 300px;
         font-size: 24px;
-       margin-left: 430px;
+       margin-left: 450px;
     }
     .buttons{
-        width: 340px;
+        width: 300px;
         margin-right: -120px;
         border-bottom: 50px;
         margin: auto;
